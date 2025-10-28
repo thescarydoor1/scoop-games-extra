@@ -1,0 +1,30 @@
+{
+    "version": "0.9.1",
+    "description": "Recompilation of Mario Kart 64",
+    "homepage": "https://github.com/sonicdcer/MarioKart64Recomp",
+    "license": "GPL-3.0-only",
+    "notes": [
+        "Follow the instructions on the screen to install the game contents.",
+        "Game contents, mods and configs are stored in %localappdata%\\MarioKart64Recompiled"
+    ],
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/sonicdcer/MarioKart64Recomp/releases/download/v0.9.1/MarioKart64Recompiled-v0.9.1-Windows-RelWithDebInfo.zip",
+            "hash": "42aaa196713ffa751a10917dd50dd7a61709a5f3c1f9f52a20d919cf19713469"
+        }
+    },
+    "shortcuts": [
+        [
+            "MarioKart64Recompiled.exe",
+            "Mario Kart 64 Recompiled"
+        ]
+    ],
+    "checkver": "github",
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/sonicdcer/MarioKart64Recomp/releases/download/v$version/MarioKart64Recompiled-v$version-Windows-RelWithDebInfo.zip"
+            }
+        }
+    }
+}
