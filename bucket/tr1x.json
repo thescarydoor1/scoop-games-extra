@@ -10,7 +10,7 @@
         }
     },
     "installer": {
-        "script": "Start-Process -FilePath \"$dir\\TRX-$version-Installer-tr1.exe\" -Wait",
+        "script": "Start-Process -FilePath \"$dir\\TRX-$version_Installer-tr1.exe\" -Wait",
         "keep": true
     },
     "checkver": {
