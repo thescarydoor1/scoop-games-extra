@@ -1,0 +1,30 @@
+{
+    "version": "1.0.2",
+    "description": "Recompilation of Star Fox 64",
+    "homepage": "https://github.com/sonicdcer/Starfox64Recomp",
+    "license": "GPL-3.0-only",
+    "notes": [
+        "Follow the instructions on the screen to install the game contents.",
+        "Game contents, mods and configs are stored in %localappdata%\\Starfox64Recompiled"
+    ],
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/sonicdcer/Starfox64Recomp/releases/download/1.0.2/Starfox64Recompiled-v1.0.2-Windows-RelWithDebInfo.zip",
+            "hash": "43a3c8c119c72a0d2cd4b62d0760718dbf0ed1764c8891232771ca213a1ae849"
+        }
+    },
+    "shortcuts": [
+        [
+            "Starfox64Recompiled.exe",
+            "Starfox 64: Recompiled"
+        ]
+    ],
+    "checkver": "github",
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/sonicdcer/Starfox64Recomp/releases/download/$version/Starfox64Recompiled-v$version-Windows-RelWithDebInfo.zip"
+            }
+        }
+    }
+}
