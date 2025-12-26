@@ -1,0 +1,30 @@
+{
+    "version": "0.9.1",
+    "description": "Modern re-implementation of Duke Nukem II",
+    "homepage": "https://github.com/lethal-guitar/RigelEngine",
+    "license": "GPL-3.0-only",
+    "notes": [
+        "Follow the instructions on the screen to install the game contents.",
+        "Game contents, mods and configs are stored in %localappdata%\\Starfox64Recompiled"
+    ],
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/lethal-guitar/RigelEngine/releases/download/v0.9.1/rigelengine_win_x64.zip",
+            "hash": "f3269c5665b22674e577680f9b60c6c90623b0890f9b3a728fb1605892ca3a02"
+        }
+    },
+    "shortcuts": [
+        [
+            "RigelEngine.exe",
+            "Rigel Engine (Duke Nukem II)"
+        ]
+    ],
+    "checkver": "github",
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/lethal-guitar/RigelEngine/releases/download/v$version/rigelengine_win_x64.zip"
+            }
+        }
+    }
+}
