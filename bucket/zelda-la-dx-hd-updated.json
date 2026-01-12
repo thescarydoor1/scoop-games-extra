@@ -1,5 +1,5 @@
 {
-    "version": "1.5.2",
+    "version": "1.5.3",
     "description": "Patcher for Link's Awakening HD",
     "homepage": "https://github.com/BigheadSMZ/Zelda-LA-DX-HD-Updated",
     "license": "Unknown",
@@ -11,8 +11,8 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://github.com/BigheadSMZ/Zelda-LA-DX-HD-Updated/releases/download/v1.5.2/LADXHD.Patcher.v1.5.2.exe",
-            "hash": "2a0bf60b3672ac11905452a157cd7343714961cd4be5eba066cf2226f438a6c3"
+            "url": "https://github.com/BigheadSMZ/Zelda-LA-DX-HD-Updated/releases/download/v1.5.3/LADXHD.Patcher.v1.5.3.exe",
+            "hash": "32b6a49ed6f3d9f094dd301e47cd7c73abae48bd450e35e1e8d5f71c0ac118f3"
         }
     },
     "checkver": "github",
