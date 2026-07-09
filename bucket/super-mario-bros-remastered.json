@@ -1,5 +1,5 @@
 {
-    "version": "1.1-26w21c",
+    "version": "1.1-26w28a",
     "description": "Super Mario Bros. remaster with mod support",
     "homepage": "https://github.com/JHDev2006/Super-Mario-Bros.-Remastered-Public",
     "license": "GPL-3.0-only",
@@ -9,8 +9,8 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://github.com/JHDev2006/Super-Mario-Bros.-Remastered-Public/releases/download/1.1-26w21c/Windows.zip",
-            "hash": "4f2b39af704827f5593b33abaa254134837e1ceb7b35bef52419bb24be778abe"
+            "url": "https://github.com/JHDev2006/Super-Mario-Bros.-Remastered-Public/releases/download/1.1-26w28a/Windows.zip",
+            "hash": "70196a2776785ec8cdbf735cbaab2cb1f7b182088a32f417e65648ecc5433056"
         }
     },
     "shortcuts": [
