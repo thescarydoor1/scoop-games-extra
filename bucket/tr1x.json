@@ -1,12 +1,12 @@
 {
-    "version": "1.9.2",
+    "version": "1.9.3",
     "description": "Open source re-implementation of Tomb Raider I, along with additional enhancements and bugfixes",
     "homepage": "https://lostartefacts.dev/",
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/LostArtefacts/TRX/releases/download/trx-1.9.2/TRX-1.9.2-Windows_Installer.exe",
-            "hash": "e43dcd5c29301fd89d331f3acf391797e3a6c8226e14df274661a37c4e88fa9a"
+            "url": "https://github.com/LostArtefacts/TRX/releases/download/trx-1.9.3/TRX-1.9.3-Windows_Installer.exe",
+            "hash": "90804ce16e815c19176427432f90697580e5f60ae0b9a89c4e1a46afcb36440f"
         }
     },
     "installer": {
