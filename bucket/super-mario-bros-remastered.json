@@ -1,5 +1,5 @@
 {
-    "version": "1.1-26w28a",
+    "version": "1.1-rc3",
     "description": "Super Mario Bros. remaster with mod support",
     "homepage": "https://github.com/JHDev2006/Super-Mario-Bros.-Remastered-Public",
     "license": "GPL-3.0-only",
@@ -9,8 +9,8 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://github.com/JHDev2006/Super-Mario-Bros.-Remastered-Public/releases/download/1.1-26w28a/Windows.zip",
-            "hash": "70196a2776785ec8cdbf735cbaab2cb1f7b182088a32f417e65648ecc5433056"
+            "url": "https://github.com/JHDev2006/Super-Mario-Bros.-Remastered-Public/releases/download/1.1-rc3/Windows.zip",
+            "hash": "9131086bb831af83f45840b692a90d940bcba52abcbe925adbf6a8a444a88454"
         }
     },
     "shortcuts": [
@@ -21,7 +21,7 @@
     ],
     "checkver": {
         "url": "https://github.com/JHDev2006/Super-Mario-Bros.-Remastered-Public/releases/latest",
-        "regex": "(\\d\\.\\d+-\\d\\dw\\d\\d[a-z]?)",
+        "regex": "(\\d\\.\\d+-[a-zA-Z0-9.]+)",
         "replace": "${1}"
     },
     "autoupdate": {
