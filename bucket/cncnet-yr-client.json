@@ -1,13 +1,13 @@
 {
-    "version": "9.3.3",
+    "version": "9.3.4",
     "description": "Multiplayer client for Red Alert 2 and Yuri's Revenge",
     "homepage": "https://cncnet.org/yuris-revenge",
     "license": "Freeware",
     "notes": "Copy this to the Red Alert 2 Directory and run the installer",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/CnCNet/cncnet-yr-client-package/releases/download/yr-9.3.3/CnCNet5_YR_Installer_9.3.3.exe",
-            "hash": "2cd93c6c352963f844a17ad3ad11a69b1a5bf9ac80faaa068a049cada6fafe23"
+            "url": "https://github.com/CnCNet/cncnet-yr-client-package/releases/download/yr-9.3.4/CnCNet5_YR_Installer_9.3.4.exe",
+            "hash": "d0d7a4c022279f08d7699764ee47a7479b953c716380dc39c9476a8e91beb351"
         }
     },
     "installer": {
