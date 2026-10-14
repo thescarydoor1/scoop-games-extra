@@ -1,12 +1,12 @@
 {
-    "version": "1.7.0.5",
+    "version": "1.7.1",
     "description": "An easy-to-install patch that makes Worms 2 run on modern computers with extra features.",
     "homepage": "https://github.com/Carlmundo/W2-Plus",
     "license": "Freeware",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Carlmundo/W2-Plus/releases/download/1.7.0.5/Worms2_Plus_1.7.0.5.exe",
-            "hash": "4bec5482ec10febf5cbbba3f906b088dc23d61d6e0ae5bca3251dcbd60006e97"
+            "url": "https://github.com/Carlmundo/W2-Plus/releases/download/1.7.1/Worms2_Plus_1.7.1.exe",
+            "hash": "f9e047e12eb1bdf5e2a00828bfbff96a1048466be22d3c7edb3f7c16dbec115d"
         }
     },
     "installer": {
